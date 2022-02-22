@@ -1,4 +1,3 @@
-import e from 'express';
 import express from 'express';
 import configViewEngine from './configs/viewEngine';
 import initWebRouter from './route/web';
